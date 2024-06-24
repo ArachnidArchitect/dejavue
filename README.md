@@ -1,4 +1,4 @@
-# store-api
+# dejavue
 
 ## Project setup
 ```
